@@ -1,7 +1,7 @@
 .jumbotron {
 	background-image: url("images/data-rain.jpg");
 	width: 1250px;
-	height: 600px;
+	height: 650px;
 	background-size: contain;
 	
 }
@@ -18,4 +18,15 @@
 	height: 100px;
 	length: 220px;
 	margin-left: 30px;
+}
+
+#second-btn {
+	margin-top: 15px;
+}
+	
+.split {
+	border-top-style: solid;
+	border-width: 1px; 
+	border-color: white;
+	margin-bottom: 20px;
 }
