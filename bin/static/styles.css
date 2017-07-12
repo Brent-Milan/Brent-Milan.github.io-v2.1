@@ -1,7 +1,7 @@
 .jumbotron {
 	background-image: url("images/data-rain.jpg");
 	width: 1250px;
-	height: 650px;
+	height: 750px;
 	background-size: contain;
 	
 }
@@ -20,13 +20,25 @@
 	margin-left: 30px;
 }
 
+#gameProj {
+	height: 85px;
+	length: 195px;
+	margin-left: 30px;
+	margin-bottom: 25px;
+}
+
+.project-buttons {
+	margin-top: 100px
+}
 #second-btn {
 	margin-top: 15px;
 }
 	
 .split {
 	border-top-style: solid;
+	border-bottom-style: solid;
 	border-width: 1px; 
 	border-color: white;
 	margin-bottom: 20px;
+	padding-top: 0px;
 }
