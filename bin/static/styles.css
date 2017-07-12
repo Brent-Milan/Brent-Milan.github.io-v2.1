@@ -9,3 +9,13 @@
 .jumbotron h1 {
 	color: white;
 }
+
+.jumbotron p {
+	margin-left: 30px;
+}
+
+#reviewProj {
+	height: 100px;
+	length: 220px;
+	margin-left: 30px;
+}
