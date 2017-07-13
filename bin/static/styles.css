@@ -12,18 +12,19 @@
 	text-shadow: 2px 2px black;
 }
 
-#jumbo-network {
+#nav-to-network {
 	background-image: url("images/cityscape.png");
 	text-shadow: 2px 2px black;
+}
+
+#nav-to-network p {
+	color: white;
 }
 
 .linked-btn {
 	margin-left: 15px;
 }
 
-#jumbo-network p {
-	color: white;
-}
 
 .jumbotron h1 {
 	margin-left: 5px;
